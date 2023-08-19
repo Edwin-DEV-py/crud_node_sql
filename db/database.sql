@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS nodedb;
+USE nodedb;
+CREATE TABLE data(
+    id INT(11) NOT NULL AUTO_INCREMENT,
+    name VARCHAR(45),
+    last_name VARCHAR(45),
+    PRIMARY KEY(id)
+);
+
