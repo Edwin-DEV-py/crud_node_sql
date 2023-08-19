@@ -1,3 +1,4 @@
 1.npm init -y ===> iniciar el proyecto.
 2.npm i express ==> instalar el modulo de express.
 3.npm i nodemon -D ==> instala rnodmeon en dependencia para que la app se recargue por si sola.
+4.npm i mysql2 ==> instalar modulo para conectar a mysql.
