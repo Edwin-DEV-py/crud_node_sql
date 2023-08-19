@@ -1,0 +1,2 @@
+1.npm init -y ===> iniciar el proyecto.
+2.npm i express ==> instalar el modulo de express.
